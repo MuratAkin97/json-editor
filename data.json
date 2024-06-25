@@ -1,5 +1,16 @@
 {
-  "name": "Murat Akın",
-  "age": 26,
-  "city": "New York"
+  "_id": {
+    "$oid": "667935d0235a62734f3676d1"
+  },
+  "link": "https://otoplus.com/audi/a3/a3-sedan-30-1.6-tdi-116-design-stronic-pi/sahibinden-2019-otomatik-dizel-75648km-ekspertizli-İstanbul-1255000tl-369183",
+  "productBrand": "Audi",
+  "year": 2019,
+  "address": "{addr1: 'Yunus Emre, Lütfi Aykaç Blv. No.81, -1. Kat 34260 Sultangazi/İstanbul', city: 'İstanbul', region: 'İstanbul', country: 'TR'}",
+  "productCategory": "SEDAN",
+  "price": "1255000",
+  "sku": 369183,
+  "description": "75648 KM'de Dizel Otomatik 2019 Audi A3 SEDAN 30 1.6 TDI 116 DESIGN STRONIC PI",
+  "imgUrl": "https://otoplus.com/image-cnv/aHR0cHM6Ly9jZG4ub3RvcGx1cy5jb20vaW1nL3Uvdi80Zi9jYy81Ny9hcmFjLTE2NTQ5OS00ZmNjNTc5OS1jMDUwLTRlMGEtOGY1OC1lMDk1NjVjNmQ5NDlfMTI4MHg3MjAuanBn",
+  "price_decimal": 1255000,
+  "name": "75648 KM'de Dizel Otomatik 2019 Audi A3 SEDAN 30 1.6 TDI 116 DESIGN STRONIC PI 2019"
 }
