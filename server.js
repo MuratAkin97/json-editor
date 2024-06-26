@@ -2,7 +2,7 @@
   // Function to apply JS code to a JS object
 function applyCodeToObject(jsCode, jsObject) {
     try {
-      const func = new Function('obj', `with(obj) { return (${jsCode}); }`);
+      const func = new Function('row', `with(row) { return (${jsCode}); }`);
       return func(jsObject);
     } catch (error) {
       return { error: 'Error applying code to object', details: error.message };
